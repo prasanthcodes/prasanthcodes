@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-#### Image feature visualizer -->
+#### projects demo -->
 
 <a href="https://prasanthcodes.github.io/image-features-visualizer/">Image Features Visualizer</a><br>
 <a href="https://prasanthcodes.github.io/segment_objects/">Segment Objects</a><br>
