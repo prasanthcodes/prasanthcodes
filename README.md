@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on implementing python,matlab,javascript utilities.
+- 🔭 I’m currently working on implementing usefull utilities in python,matlab,javascript languages.
 <!--
 - 🌱 I’m currently learning web frameworks.
 - 👯 I’m looking to collaborate on ...
