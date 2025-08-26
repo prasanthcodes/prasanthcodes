@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I know python,matlab,javascript languages.
+- 🔭 I program in python,matlab,javascript languages.
 <!--
 - 🌱 I’m currently learning web frameworks.
 - 👯 I’m looking to collaborate on ...
