@@ -1,6 +1,4 @@
-### Hi there 👋
 
-- 🔭 I program in python,matlab,javascript languages.
 <!--
 - 🌱 I’m currently learning web frameworks.
 - 👯 I’m looking to collaborate on ...
@@ -11,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-#### projects demo -->
+#### Quick links
 
 <a href="https://prasanthcodes.github.io/webcam-image-effects/">webcam image effects</a><br>
 <a href="https://prasanthcodes.github.io/image-features-visualizer/">Image Features Visualizer</a><br>
